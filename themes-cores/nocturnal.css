@@ -514,8 +514,6 @@
     content: "";
     width: 36px;
     height: 36px;
-    top: 6px;
-    left: 6px;
     background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02));
     background-repeat: no-repeat;
     background-size: contain;
