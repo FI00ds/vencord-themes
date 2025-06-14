@@ -32,7 +32,7 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
 */
 @import url("https://raw.githubusercontent.com/FI00ds/themes/refs/heads/master/core/badges.css");
 @import url("https://raw.githubusercontent.com/FI00ds/themes/refs/heads/master/core/custom-font.css");
-@import url("https://raw.githubusercontent.com/DiscordStyles/RadialStatus/deploy/RadialStatus.theme.css"); /* Radial Status */
+@import url("https://raw.githubusercontent.com/DiscordStyles/RadialStatus/deploy/RadialStatus.css"); /* Radial Status */
 @import url("https://raw.githubusercontent.com/FI00ds/themes/refs/heads/master/core/settings-icons.css");
 :root {
     --backgroundColor01: #1e2731;
