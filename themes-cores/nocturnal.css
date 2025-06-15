@@ -598,7 +598,7 @@
 
 #app-mount .check__5621e {
     background: var(--mainColor) !important;
-    mask-image: url(/assets/1c0a5d38bdeaaad433b68cf6092ed510.svg);
+    mask-image: url(/assets/1c0a5d38bdeaaad433b68cf6092ed510.svg)
 }
 
 #app-mount .wordmarkWindows__421ed {
@@ -628,6 +628,10 @@
     background-color: var(--backgroundColor02) !important
 }
 
+#app-mount .childContainer__91a9d {
+  padding: 0;
+}
+
 #app-mount .clickable__91a9d.container__91a9d .activity__5d473 {
     color: rgba(255, 255, 255, .5) !important
 }
@@ -636,8 +640,8 @@
     color: rgba(255, 255, 255, .9) !important
 }
 
-#app-mount .clickable__91a9d.container__91a9d:hover .layout__91a9d,
-#app-mount .selected__91a9d .layout__91a9d {
+#app-mount .clickable__91a9d.container__91a9d:hover :not(.nameplated__91a9d) .layout__91a9d,
+#app-mount .selected__91a9d :not(.nameplated__91a9d) .layout__91a9d{
     background-color: var(--backgroundColor01) !important
 }
 
